@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emilyempa
 - 👀 I’m interested in football, golf and programming
-- 🌱 I’m currently learning JavaScript and Java
+- 🌱 I’m currently learning HTLM, CSS, JavaScript and Java
 - 💞️ I’m looking to collaborate on schoolwork
 - 📫 How to reach me: Send a message
 - 😄 Pronouns: She/Her
