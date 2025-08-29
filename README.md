@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on schoolwork
 - 📫 How to reach me: Send a message
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love animals! 
+- ⚡ Fun fact: I compete in rally obedience with my dog Peggy! 
 
 <!---
 Emilyempa/Emilyempa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
